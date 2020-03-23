@@ -1,0 +1,2 @@
+include ':app', ':baidu', ':mapbox', ':gaode', ':tomtom', ':tenxun', ':google', ':basemodule'
+rootProject.name='MapAPP'
